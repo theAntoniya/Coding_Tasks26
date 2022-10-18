@@ -20,7 +20,7 @@ public class SwapNumber {
 
         num1 = num1+num2;   //num1 =  15 + 10  --> 25
         num2 = num1-num2;   // num2 = 25 - 10 --> 15 so we competed our first step
-        num1 = num1 - num2;
+        num1 = num1-num2;
 
 
         System.out.println( "After swap : \n" +  num1 +"\n"+ num2 );

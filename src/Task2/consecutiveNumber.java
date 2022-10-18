@@ -26,7 +26,7 @@ public class consecutiveNumber {
 
         */
 
-        for (int i = 1; i < num; i++) {
+        for (int i = 1; i <= num; i++) {
             if (i % 2 == 0)
                 System.out.print("Codility");
             if (i % 3 == 0)
